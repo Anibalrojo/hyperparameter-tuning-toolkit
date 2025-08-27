@@ -22,6 +22,11 @@ dist/
 
 # Project Data - IMPORTANT!
 # Do not commit data files to the repository.
-/data/
+/data/**/*.csv
+/data/**/*.xlsx
+/data/**/*.json
+/data/**/*.parquet
+/data/**/*.pkl
+/data/**/*.h5
 
 
