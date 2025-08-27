@@ -20,7 +20,7 @@ dist/
 # VSCode
 .vscode/
 
-# Project Data - IMPORTANT!
+# Project Data
 # Do not commit data files to the repository.
 /data/**/*.csv
 /data/**/*.xlsx
