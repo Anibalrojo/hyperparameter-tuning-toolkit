@@ -27,3 +27,4 @@ This script will:
 4. Process the data and save train/test splits to the `02_processed` directory
 
 Note: The processed data files are generated during the execution of the notebooks and are also excluded from version control.
+
