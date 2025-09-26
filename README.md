@@ -73,7 +73,7 @@ hyperparameter-tuning-toolkit/
 ### 1. Clone the Repository
 
 ```bash
-git https://github.com/Anibalrojo/hyperparameter-tuning-toolkit
+git 
 cd hyperparameter-tuning-toolkit
 ```
 
